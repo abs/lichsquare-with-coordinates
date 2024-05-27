@@ -3,6 +3,9 @@
   "name": "Lichsquare with Coordinates Chrome Extension",
   "version": "1.0",
   "description": "Show coordinates on each Lichess.org board square",
+  "icons": [
+    "128": "lichsquare-icon-128.png"
+  ],
   "permissions": [
     "activeTab"
   ],
