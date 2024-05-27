@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Lichsquare with Coordinates Chrome Extension",
+  "name": "Coordinates on Each Lichess Board Square",
   "version": "1.0",
-  "description": "Show coordinates on each Lichess.org board square",
+  "description": "Show coordinates on each lichess.org chessboard square",
   "icons": {
     "128": "lichsquare-icon-128.png"
   },
