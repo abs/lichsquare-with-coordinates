@@ -7,7 +7,6 @@
     "128": "lichsquare-icon-128.png"
   },
   "permissions": [
-    "activeTab"
   ],
   "content_scripts": [
     {
